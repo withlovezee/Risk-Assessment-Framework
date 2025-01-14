@@ -1,6 +1,6 @@
 
 
-# Comprehensive Risk Assessment Framework for Small Businesses
+# Comprehensive Risk Assessment Framework for Summies Arts
 
 This repository showcases a practical risk management framework tailored for a small Arabic calligraphy business. The project includes a risk register, assessment matrix, mitigation plans, and essential policies to demonstrate my understanding of Governance, Risk, and Compliance (GRC) principles.
 
