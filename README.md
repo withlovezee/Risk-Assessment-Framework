@@ -78,8 +78,8 @@ Includes essential cybersecurity policies:
 
 ## Connect With Me
 If you have any feedback or suggestions, feel free to reach out:
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/zaynab-musa-194369283/)
-- GitHub: [Your GitHub Profile](https://github.com/withlovezee)
+- LinkedIn: ([https://www.linkedin.com/in/zaynab-musa-194369283/)
+- GitHub: (https://github.com/withlovezee)
 
 ---
 
